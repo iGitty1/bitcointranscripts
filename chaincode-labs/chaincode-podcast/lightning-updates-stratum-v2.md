@@ -2,7 +2,7 @@
 title: "Lightning updates / Stratum V2"
 transcript_by: iGitty1 via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Steve-Lee-and-Lightning-updates--Stratum-V2---Episode-23-e1ofl4j
-tags: ["lightning","zero-conf-channels","stratum-v2","large-channels"]
+tags: ["lightning","zero-conf-channels","stratum-v2","large-channels","mining"]
 speakers: ["Steve Lee"]
 categories: ["podcast"]
 date: 2022-09-28
